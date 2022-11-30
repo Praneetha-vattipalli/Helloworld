@@ -9,9 +9,7 @@ public class Control {
     public String getHello(){
         return "hello";
     }
-    @GetMapping("/hello")
-    public String getHelloworld(){
-        return "hello";
-    }
+    
+
 
 }
