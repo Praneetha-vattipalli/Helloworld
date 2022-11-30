@@ -9,17 +9,5 @@ public class Control {
     public String getHello(){
         return "hello";
     }
-    @GetMapping("/hello")
-    public String getHelloworld(){
-        return "hello";
-    }
-    @GetMapping("/hello1")
-    public String getHelloworld1(){
-        return "hello";
-    }
-    @GetMapping("/helloworld")
-    public String getHelloworld2(){
-        return "hello";
-    }
-
+    
 }
