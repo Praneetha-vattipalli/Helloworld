@@ -9,7 +9,7 @@ public class Control {
     public String getHello(){
         return "hello";
     }
-    
+
 
 
 
